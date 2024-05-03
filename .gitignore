@@ -1,0 +1,6 @@
+# Ignore obj and bin directories
+**/bin/
+**/obj/
+
+**/.DS_Store
+**/.idea
